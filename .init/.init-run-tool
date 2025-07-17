@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/sample-backend-apis-2be5c7b7/Backend_API_Monolithic_Service"
+}
